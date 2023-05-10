@@ -1,4 +1,4 @@
-# my-django-nuxt
+# my-django-nuxt-jupyter
 
 ## How to use
 
